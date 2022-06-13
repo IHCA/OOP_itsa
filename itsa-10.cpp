@@ -11,7 +11,7 @@ int main(){
         }  
         for(int i=0; i<col; i++){  
             for(int j=0; j<row; j++){  
-                scanf("%d", &num[i][j]);  
+                cin>>num[i][j];  
             }  
         }  
         for(int i=0; i<row; i++){  
